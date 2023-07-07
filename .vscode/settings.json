@@ -1,0 +1,6 @@
+{
+    "notebook.output.wordWrap": false,
+    "editor.wordWrap": "off",
+    "diffEditor.wordWrap": "inherit",
+    "debug.console.wordWrap": true
+}
